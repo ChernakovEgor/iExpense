@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		74558EE725EE962600C30E2C /* AddExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74558EE625EE962600C30E2C /* AddExpenseView.swift */; };
 		7479817325ED3C990022DEEF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7479817225ED3C990022DEEF /* AppDelegate.swift */; };
 		7479817525ED3C990022DEEF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7479817425ED3C990022DEEF /* SceneDelegate.swift */; };
 		7479817725ED3C990022DEEF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7479817625ED3C990022DEEF /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		74558EE625EE962600C30E2C /* AddExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenseView.swift; sourceTree = "<group>"; };
 		7479816F25ED3C990022DEEF /* iExpense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iExpense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7479817225ED3C990022DEEF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7479817425ED3C990022DEEF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				7479817225ED3C990022DEEF /* AppDelegate.swift */,
 				7479817425ED3C990022DEEF /* SceneDelegate.swift */,
 				7479817625ED3C990022DEEF /* ContentView.swift */,
+				74558EE625EE962600C30E2C /* AddExpenseView.swift */,
 				7479817825ED3C9D0022DEEF /* Assets.xcassets */,
 				7479817D25ED3C9D0022DEEF /* LaunchScreen.storyboard */,
 				7479818025ED3C9D0022DEEF /* Info.plist */,
@@ -148,6 +151,7 @@
 				7479817325ED3C990022DEEF /* AppDelegate.swift in Sources */,
 				7479817525ED3C990022DEEF /* SceneDelegate.swift in Sources */,
 				7479817725ED3C990022DEEF /* ContentView.swift in Sources */,
+				74558EE725EE962600C30E2C /* AddExpenseView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
